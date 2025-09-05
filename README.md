@@ -108,7 +108,7 @@ https://portal.partner2.com/portal/login
 The page will show:
 
 * Title: **Partner2 Portal**
-* Favicon: ![favicon](https://partner2.com/favicon.ico)
+* Favicon of partner2
 
 When visiting any other Splynx page (e.g. `/portal/main`), the default Splynx title and favicon remain.
 
